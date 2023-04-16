@@ -17,3 +17,6 @@ save this in root
 then run the application
 
 the client folder contains the forntend and src folder contain the backend code...
+
+if there is any error restart the page
+
