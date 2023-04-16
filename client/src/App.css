@@ -1,0 +1,9 @@
+.App {
+min-height: 100vh; 
+display: flex;
+background-image: url("https://ik.imagekit.io/wish/milkyway.jpg?updatedAt=1681495120655");
+background-size: cover;
+background-position: center;
+color: rgb(97, 10, 10);
+}
+
